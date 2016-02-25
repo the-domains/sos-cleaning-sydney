@@ -1,0 +1,28 @@
+name: SOS Cleaning Sydney
+favicon: null
+layout_spectrum: 0.5276787998154759
+typography_spectrum: 0.2700805808417499
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.32932303845882416
+  lightness: 0.6516882113646716
+  saturation: 0.37973072682507336
+  rhythmicContrast: 0.9921080044005066
+purpose: []
